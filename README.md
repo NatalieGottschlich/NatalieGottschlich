@@ -1,5 +1,5 @@
 - @NatalieGottschlich
-- Northwestern CIERA Post-Masters research Fellow
+- Northwestern CIERA post-masters research fellow
 - Researching LISA galactic populations
 - Email: 16gottsn@gmail.com
 
