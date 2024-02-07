@@ -1,5 +1,5 @@
 - @NatalieGottschlich
-- Northwestern CIERA post-masters research fellow
+- Texas Tech University Astrophysics PhD Student
 - Researching LISA galactic populations
 - Email: natalie.e.gottschlich@gmail.com
 
