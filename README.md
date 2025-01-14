@@ -1,6 +1,5 @@
 - @NatalieGottschlich
-- Texas Tech University Astrophysics PhD Student
-- Researching LISA galactic populations
+- Johns Hopkins University Astrophysics PhD Student
 - Email: natalie.e.gottschlich@gmail.com
 
 <!---
